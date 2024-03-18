@@ -1,1 +1,5 @@
 조진호
+
+git add .
+
+git commit -m "test"
