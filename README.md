@@ -11,3 +11,4 @@ pull : 원격 저장소에서 가져오는 명령어
 status : 현 폴더에 git과의 상태를 보는 명령어
 
 # 조진호
+git commit -m "#1 Update my name"
